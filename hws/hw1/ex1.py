@@ -1,4 +1,6 @@
 import time
+
+
 def two_summ(a, b):
     time.sleep(1)
     return a + b
